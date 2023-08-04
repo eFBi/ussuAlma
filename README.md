@@ -1,1 +1,1 @@
-# ussuAlma
+Girilen sayının üssünü alan program.
